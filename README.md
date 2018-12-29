@@ -41,20 +41,26 @@ A browser is anything that can interprete HTML. A modern browser can include and
 - Elements: Position & Size
 - Hierarchiy & Taxonomy: Information architecture
 
-##How a website is used?
+## How a website is used?
+- Sync / Async
 ### Things happening in real time
-- UI
+- UI [Sync]
+- [Async] Observables https://github.com/sindresorhus/awesome-observables#readme
+
+
 ### The experience from user's viewpoint: Device + Browser + Website 
 - Accesibility
 - Goal: Complete tasks, get information, get entertained.
 - web 1.0, web 2.0
 - Localization: USD/Spanish/America [CURRENCY | LANGUAGE | GEO LOCATION]
+- Web Performance Optimization: https://github.com/davidsonfellipe/awesome-wpo#readme
 
 ## How we make Websites?
 ### Strategies 
 - Cut the mustard 
-- Progressive Enhacement
+- Progressive Enhacement https://github.com/TalAter/awesome-progressive-web-apps#readme
 - Degrade to desktop
+
 
 ### Writing META HTML - 
 - Head
@@ -74,8 +80,11 @@ A browser is anything that can interprete HTML. A modern browser can include and
 - Hardcode
 - Mobile First
 - Needs at least 1 HTML element to run
+- Critical Path CSS https://github.com/addyosmani/critical-path-css-tools#readme
+- PostCSS
 
 ### Writing Javascript - UI Interactions and cool effects
+- Must Watch Videos about Javacript: https://github.com/bolshchikov/js-must-watch#readme
 - Frameworks
 - asyn / sync
 - jquery 
@@ -102,6 +111,8 @@ A browser is anything that can interprete HTML. A modern browser can include and
 
 ### Security
 - Forms / Urls
+- https://github.com/qazbnm456/awesome-web-security#readme
+- Pentesting: https://github.com/meitar/awesome-lockpicking#readme
 
 ## How we learn Web Development?
 - By doing
