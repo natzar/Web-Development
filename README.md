@@ -116,3 +116,4 @@ A browser is anything that can interprete HTML. A modern browser can include and
 - https://frontendmasters.com/books/front-end-handbook/2018/learning/ui-design-patterns.html
 - http://browserapis.wtf/
 - https://developer.mozilla.org/en-US/docs/Mozilla/Gecko/Chrome/API/Browser_API/Using
+- Curated list of Awesome lists https://github.com/sindresorhus/awesome
