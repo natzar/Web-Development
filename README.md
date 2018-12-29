@@ -6,24 +6,24 @@ Our objective is to find optimals ways to develop browser code, across devices, 
 
 ## What is a Website?
 A website is anything that can be interpreted by a browser. 
+- HTML, CSS, JS & TEXT
+- Desktop x Mobile Devices x Tablets x Browsers x Versions
+- Not persistent.
+- Paradigm: API <> Front (newer).
+- Paradigm: All server side rendered (old) WordPress*.
+- Simulate Persistency: Local Storage + Server backend + real time data
 
 ### Browser
 A browser is anything that can interprete HTML. A modern browser can include and evaluate JS files and render CSS rules.
 
-#### How a Browser works?
 - Information exchange SERVER <> CLIENT (handshake)
-- HTML CSS JS TEXT
 - The DOM
 - The BOM (Browser Object Model) 
 - Browser APIS: http://browserapis.wtf/ / https://developer.mozilla.org/en-US/docs/Mozilla/Gecko/Chrome/API/Browser_API/Using
-- Desktop x Mobile Devices x Tablets x Browsers x Versions
-- Responsive
 - Its HTML Parser, tolerant to weird and wrong html.
+- Local & Session storage
 
-### Statuses / Sync
-- Simulate Persistency: Local Storage + Server backend + real time data
-- Paradigm: API <> Front (newer).
-- Paradigm: All server side rendered (old) WordPress*.
+- Browser -> Server -> Website -> Use some HTML generator (php/*) (-> = use)
 
 ### DATA 
 - External source
@@ -41,7 +41,10 @@ A browser is anything that can interprete HTML. A modern browser can include and
 - Elements: Position & Size
 - Hierarchiy & Taxonomy: Information architecture
 
-### The experience (from the users)
+##How a website is used?
+### Things happening in real time
+- UI
+### The experience from user's viewpoint: Device + Browser + Website 
 - Accesibility
 - Goal: Complete tasks, get information, get entertained.
 - web 1.0, web 2.0
@@ -66,7 +69,7 @@ A browser is anything that can interprete HTML. A modern browser can include and
 ### Writing CSS - Showing information with style
 - Clases / Ids
 - Inline styles
-- Media Queries
+- Media Queries. Responsive.
 - Frameworks
 - Hardcode
 - Mobile First
@@ -106,9 +109,10 @@ A browser is anything that can interprete HTML. A modern browser can include and
 
 ## Questions?
 - Is web evolution progress?
+- Important KPIs for Web development
 
 
-### References
+## References
 - https://frontendmasters.com/books/front-end-handbook/2018/learning/ui-design-patterns.html
 - http://browserapis.wtf/
 - https://developer.mozilla.org/en-US/docs/Mozilla/Gecko/Chrome/API/Browser_API/Using
