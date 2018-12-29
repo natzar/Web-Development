@@ -2,11 +2,11 @@
 Collection of deconstructions and studies about web development and website creation, made from the day to day work done at www.PhpNinja.info
 
 What is a website? What actors take part? How websites are developed?
-Our objective is to find the best way of developing websites adapted to user needs and development moment of the project and of the environment.
+Our objective is to find optimals ways to develop something (or parts of something) that work inside a browser, across devices, user-cented always and not forgeting the current development status of the "something".
 
 
 ### Browser
-Applications for apps called browsers. Run HTML, include and evaluate JS files and include CSS rules
+Browser interprets HTML, include and evaluate JS files and include CSS rules to render it soon.
 
 - Information exchange SERVER <> CLIENT (handshake)
 - HTML CSS JS TEXT
@@ -16,8 +16,7 @@ Applications for apps called browsers. Run HTML, include and evaluate JS files a
 
 
 ### Design / Content
-- Content Scanning
-- heat maps
+- Content Scanning, heat maps
 - Elements: Position & Size
 - Hierarchiy & Taxonomy: Information architecture
 
