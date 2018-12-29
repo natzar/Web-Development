@@ -1,5 +1,5 @@
 # PhpNinja
-www.PhpNinja.info Web Repair, Bug Fixing and Maintenance Services.
+[Advertising] www.PhpNinja.info Web Repair, Bug Fixing and Maintenance Services.
 
 What is a website? What components and part take part? How websites are developed?
 Our objective is to find optimals ways to develop browser code, across devices, user-cented always and not forgeting the current development status of the code. holp in the sky
@@ -11,6 +11,7 @@ Browser interprets HTML, include and evaluate JS files and include CSS rules to 
 - Information exchange SERVER <> CLIENT (handshake)
 - HTML CSS JS TEXT
 - The DOM
+- The BOM (Browser Object Model) 
 - Desktop x Mobile Devices x Tablets x Browsers x Versions
 - Responsive
 - Its HTML Parser, tolerant to weird and wrong html.
