@@ -13,6 +13,7 @@ Browser interprets HTML, include and evaluate JS files and include CSS rules to 
 - The DOM
 - Desktop x Mobile Devices x Tablets x Browsers x Versions
 - Responsive
+- Its HTML Parser, tolerant to weird and wrong html.
 
 ### Server part
 - HTTP Server
@@ -41,11 +42,13 @@ Browser interprets HTML, include and evaluate JS files and include CSS rules to 
 - HTML can exist without CSS and JS. Needs a browser to run.
 
 ### Writing CSS - Showing information with style
-- Clases / Ids.
+- Clases / Ids
+- Inline styles
+- Media Queries
 - Frameworks
 - Hardcode
 - Mobile First
-- Needs HTML to run
+- Needs at least 1 HTML element to run
 
 ### Writing Javascript - UI Interactions and cool effects
 - Frameworks
