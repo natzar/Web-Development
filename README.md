@@ -49,8 +49,8 @@ Browser interprets HTML, include and evaluate JS files and include CSS rules to 
 - asyn / sync
 - jquery 
 - ESx Javascript syntax
-- AJAX
-- Needs HTML to run
+- AJAX: based on a feature that was ignored for long
+- Needs HTML to run(?)
 
 ### Development Cycle
 - Builds
@@ -62,12 +62,15 @@ Browser interprets HTML, include and evaluate JS files and include CSS rules to 
 - UI interactions
 - Responsive ?
 - Errors in Console. Not monitored real time.
-- Errors in UI or CSS. Need a human to review.
+- Errors in UI or CSS. "Need the human to review".
 
 ### Statuses / Sync
 - Simulate Persistency: Local Storage + Server backend + real time data
-- Paradigm: API <> Front.
-- Paradigm: All server side rendered.
+- Paradigm: API <> Front (newer).
+- Paradigm: All server side rendered (old) WordPress*.
+
+### Security
+- Forms / Urls
 
 ### DATA 
 - External source
@@ -75,7 +78,7 @@ Browser interprets HTML, include and evaluate JS files and include CSS rules to 
 - Formats: JSON / XML / ...
 - Fixtures
 
-### Strategis for Front Development
+### Strategies 
 - Cut the mustard 
 - Progressive Enhacement
 - Degrade to desktop
