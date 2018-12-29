@@ -1,39 +1,70 @@
 # PhpNinja
-www.PhpNinja.info Web Repair, Bug Fixing and Maintenance Services.
+[Advertising] www.PhpNinja.info Web Repair, Bug Fixing and Maintenance Services.
 
 What is a website? What components and part take part? How websites are developed?
 Our objective is to find optimals ways to develop browser code, across devices, user-cented always and not forgeting the current development status of the code. holp in the sky
 
+## What is a Website?
+A website is anything that can be interpreted by a browser. 
+- HTML, CSS, JS & TEXT
+- Desktop x Mobile Devices x Tablets x Browsers x Versions
+- Not persistent.
+- Paradigm: API <> Front (newer).
+- Paradigm: All server side rendered (old) WordPress*.
+- Simulate Persistency: Local Storage + Server backend + real time data
 
 ### Browser
-Browser interprets HTML, include and evaluate JS files and include CSS rules to render it soon.
+A browser is anything that can interprete HTML. A modern browser can include and evaluate JS files and render CSS rules.
 
 - Information exchange SERVER <> CLIENT (handshake)
-- HTML CSS JS TEXT
 - The DOM
-- Desktop x Mobile Devices x Tablets x Browsers x Versions
-- Responsive
+- The BOM (Browser Object Model) 
+- Browser APIS: http://browserapis.wtf/ / https://developer.mozilla.org/en-US/docs/Mozilla/Gecko/Chrome/API/Browser_API/Using
 - Its HTML Parser, tolerant to weird and wrong html.
+- Local & Session storage
+
+- Browser -> Server -> Website -> Use some HTML generator (php/*) (-> = use)
+
+### DATA 
+- External source
+- internal source 
+- Formats: JSON / XML / ...
+- Fixtures
 
 ### Server part
 - HTTP Server
 - HTTPS
+- HTTP Status Codes
 
 ### Design / Content
 - Content Scanning, heat maps
 - Elements: Position & Size
 - Hierarchiy & Taxonomy: Information architecture
 
-### The experience (from the users)
+## How a website is used?
+- Sync / Async
+### Things happening in real time
+- UI [Sync]
+- [Async] Observables https://github.com/sindresorhus/awesome-observables#readme
+
+
+### The experience from user's viewpoint: Device + Browser + Website 
 - Accesibility
 - Goal: Complete tasks, get information, get entertained.
 - web 1.0, web 2.0
 - Localization: USD/Spanish/America [CURRENCY | LANGUAGE | GEO LOCATION]
+- Web Performance Optimization: https://github.com/davidsonfellipe/awesome-wpo#readme
+
+## How we make Websites?
+### Strategies 
+- Cut the mustard 
+- Progressive Enhacement https://github.com/TalAter/awesome-progressive-web-apps#readme
+- Degrade to desktop
+
 
 ### Writing META HTML - 
 - Head
 - Metas
-
 
 ### Writing HTML - Structure content
 - From Server side
@@ -44,13 +75,16 @@ Browser interprets HTML, include and evaluate JS files and include CSS rules to 
 ### Writing CSS - Showing information with style
 - Clases / Ids
 - Inline styles
-- Media Queries
+- Media Queries. Responsive.
 - Frameworks
 - Hardcode
 - Mobile First
 - Needs at least 1 HTML element to run
+- Critical Path CSS https://github.com/addyosmani/critical-path-css-tools#readme
+- PostCSS
 
 ### Writing Javascript - UI Interactions and cool effects
+- Must Watch Videos about Javacript: https://github.com/bolshchikov/js-must-watch#readme
 - Frameworks
 - asyn / sync
 - jquery 
@@ -58,11 +92,16 @@ Browser interprets HTML, include and evaluate JS files and include CSS rules to 
 - AJAX: based on a feature that was ignored for long
 - Needs HTML to run(?)
 
+### Adding Assets
+- Images, Fonts, Icons
+
 ### Development Cycle
 - Builds
 - Git
 - Jenkins
 - Automatic Tests
+
+## How we test Websites?
 
 ### Quality Assurance
 - UI interactions
@@ -70,21 +109,22 @@ Browser interprets HTML, include and evaluate JS files and include CSS rules to 
 - Errors in Console. Not monitored real time.
 - Errors in UI or CSS. "Need the human to review".
 
-### Statuses / Sync
-- Simulate Persistency: Local Storage + Server backend + real time data
-- Paradigm: API <> Front (newer).
-- Paradigm: All server side rendered (old) WordPress*.
-
 ### Security
 - Forms / Urls
+- https://github.com/qazbnm456/awesome-web-security#readme
+- Pentesting: https://github.com/meitar/awesome-lockpicking#readme
 
-### DATA 
-- External source
-- internal source 
-- Formats: JSON / XML / ...
-- Fixtures
+## How we learn Web Development?
+- By doing
+- Online Sources: Courses and Reference.
 
-### Strategies 
-- Cut the mustard 
-- Progressive Enhacement
-- Degrade to desktop
+## Questions?
+- Is web evolution progress?
+- Important KPIs for Web development
+
+
+## References
+- https://frontendmasters.com/books/front-end-handbook/2018/learning/ui-design-patterns.html
+- http://browserapis.wtf/
+- https://developer.mozilla.org/en-US/docs/Mozilla/Gecko/Chrome/API/Browser_API/Using
+- Curated list of Awesome lists https://github.com/sindresorhus/awesome
