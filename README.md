@@ -1,57 +1,72 @@
-# The Interpreter
-UI Experiments.
+# PhpNinja Labs Repo
+Deconstructing & reconstructing web sites to rethink web development. 
+www.phpninja.info
+ 
+### Browser
+Applications for apps called browsers. The nature of a website is very volatile.
 
-## Browser
-Applications for apps called browsers
 - HTML CSS JS TEXT
 - DOM
 - Builds
 - Information exchange SERVER <> CLIENT (handshake)
-
-## The USER / UI Design
-- Scanning
-- hot maps
-- Position & Size
-- Hierarchiy
-- Information architecture
-- Goal: Complete tasks
-
-## The experience (from the users)
+- Cut the mustard 
+- Major Browsers ? Major Devices ? What Countries?
+- Mobile Devices
+- Tablets
 - Progressive Enhacement
 - Degrade to desktop
-- Mobile First
-- Boxes
-- Ajax
 - Responsive
-- Information architecture
-- Goal: Complete tasks
 
-## Writing HTML
+### The USER / UI Design
+- Content Scanning
+- heat maps
+- Elements: Position & Size
+- Hierarchiy & Taxonomy: Information architecture
+
+### The experience (from the users)
+
+- Goal: Complete tasks
+- web 1.0, web 2.0
+- Localization: USD/Spanish/America [CURRENCY | LANGUAGE | GEO LOCATION]
+
+### Writing HTML
 - From Php
 - From Javascript
 - Hardcode
 
-## writing CSS
+### Writing META HTML
+- Head
+- Metas
+
+### Writing CSS
 - Clases / Ids.
 - Frameworks
+- Hardcode
+- Mobile First
 
-## Writing Javascript
+### Writing Javascript
 - Frameworks
-- async events based 
-- sync actions triggered by user actions
-- jquery
+- asyn / sync
+- jquery 
 - ESx Javascript syntax
+- AJAX
 
-## Testing & QA
+### Big brother
+- Something monitoring web usage real time
 
-## Statuses / Sync
-- Simulate Persistency
-- Local Storage + Server backend + real time data
+### Automatic Testing & QA
+- UI interactions
+- Responsive ?
 
-## DATA 
+### Statuses / Sync
+- Simulate Persistency: Local Storage + Server backend + real time data
+- Paradigm: API <> Front.
+- Paradigm: All server side rendered.
+
+### DATA 
 - External source
-- JSON server-side rendered
 - internal source 
-- JSON / XML / ...
+- Formats: JSON / XML / ...
+- Fixtures
 
 
