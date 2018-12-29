@@ -1,62 +1,70 @@
 # PhpNinja Labs Repo
 Deconstructing & reconstructing web sites to rethink web development. 
-www.phpninja.info
- 
-### Browser
-Applications for apps called browsers. The nature of a website is very volatile.
+What is a website? What actors take part? How websites are developed?
 
-- HTML CSS JS TEXT
-- DOM
-- Builds
+Sponsored by www.phpninja.info Web Repair Services
+
+
+
+### Browser
+Applications for apps called browsers. Run HTML, include and evaluate JS files and include CSS rules
+
 - Information exchange SERVER <> CLIENT (handshake)
-- Cut the mustard 
-- Major Browsers ? Major Devices ? What Countries?
-- Mobile Devices
-- Tablets
-- Progressive Enhacement
-- Degrade to desktop
+- HTML CSS JS TEXT
+- The DOM
+- Desktop x Mobile Devices x Tablets x Browsers x Versions
 - Responsive
 
-### The USER / UI Design
+
+### Design / Content
 - Content Scanning
 - heat maps
 - Elements: Position & Size
 - Hierarchiy & Taxonomy: Information architecture
 
 ### The experience (from the users)
-
-- Goal: Complete tasks
+- Accesibility
+- Goal: Complete tasks, get information, get entertained.
 - web 1.0, web 2.0
 - Localization: USD/Spanish/America [CURRENCY | LANGUAGE | GEO LOCATION]
 
-### Writing HTML
-- From Php
-- From Javascript
-- Hardcode
-
-### Writing META HTML
+### Writing META HTML - 
 - Head
 - Metas
 
-### Writing CSS
+
+### Writing HTML - Structure content
+- From Server side
+- From Javascript
+- Hardcode
+- HTML can exist without CSS and JS. Needs a browser to run.
+
+### Writing CSS - Showing information with style
 - Clases / Ids.
 - Frameworks
 - Hardcode
 - Mobile First
+- Needs HTML to run
 
-### Writing Javascript
+### Writing Javascript - UI Interactions and cool effects
 - Frameworks
 - asyn / sync
 - jquery 
 - ESx Javascript syntax
 - AJAX
+- Needs HTML to run
 
-### Big brother
-- Something monitoring web usage real time
+### Development Cycle
+- Builds
+- Git
+- Jenkins
+- Automatic Tests
 
-### Automatic Testing & QA
+### Quality Assurance
 - UI interactions
 - Responsive ?
+- Errors in Console. Not monitored real time.
+- Errors in UI or CSS. Need a human to review.
 
 ### Statuses / Sync
 - Simulate Persistency: Local Storage + Server backend + real time data
@@ -69,4 +77,7 @@ Applications for apps called browsers. The nature of a website is very volatile.
 - Formats: JSON / XML / ...
 - Fixtures
 
-
+### Strategis for Front Development
+- Cut the mustard 
+- Progressive Enhacement
+- Degrade to desktop
