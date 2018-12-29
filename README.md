@@ -1,9 +1,8 @@
-# PhpNinja Labs Repo
-Deconstructing & reconstructing web sites to rethink web development. 
+# PhpNinja
+Collection of deconstructions and studies about web development and website creation, made from the day to day work done at www.PhpNinja.info
+
 What is a website? What actors take part? How websites are developed?
-
-Sponsored by www.phpninja.info Web Repair Services
-
+Our objective is to find the best way of developing websites adapted to user needs and development moment of the project and of the environment.
 
 
 ### Browser
