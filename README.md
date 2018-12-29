@@ -1,7 +1,7 @@
 # PhpNinja
-Collection of deconstructions and studies about web development and website creation, made from the day to day work done at www.PhpNinja.info
+www.PhpNinja.info Web Repair, Bug Fixing and Maintenance Services.
 
-What is a website? What actors take part? How websites are developed?
+What is a website? What components and part take part? How websites are developed?
 Our objective is to find optimals ways to develop something (or parts of something) that work inside a browser, across devices, user-cented always and not forgeting the current development status of the "something".
 
 
