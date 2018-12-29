@@ -1,5 +1,5 @@
 # PhpNinja
-[Advertising] www.PhpNinja.info Web Repair, Bug Fixing and Maintenance Services.
+[Advertising] www.phpninja.info Web Repair, Bug Fixing and Maintenance Services.
 
 What is a website? What components and part take part? How websites are developed?
 Our objective is to find optimals ways to develop browser code, across devices, user-cented always and not forgeting the current development status of the code. holp in the sky
