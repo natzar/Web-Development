@@ -1,9 +1,9 @@
 # PhpNinja 
-Boiling up web creation & development to reduce it to the essential. 
- [Advertising] www.phpninja.info Web Repair, Bug Fixing and Maintenance Services.
+We are trying to boil up web creation & development process to reduce it to the essential. 
+[Advertising] www.phpninja.info Web Repair, Bug Fixing and Maintenance Services.
 
-What is a website? What components and part take part? How websites are developed?
-Our objective is to find optimals ways to develop browser code, across devices, user-cented always and not forgeting the current development status of the code. holp in the sky
+¿What is a website? ¿What components and part take part? How we make websites?
+Our objective is to find new ways to improve developement, optimize browser code, across devices, user-cented  and not forgeting the current development status of the code. 
 
 ## What is a Website?
 A website is anything that can be interpreted by a browser. 
@@ -13,24 +13,27 @@ A website is anything that can be interpreted by a browser.
 - Paradigm: API <> Front (newer).
 - Paradigm: All server side rendered (old) WordPress*.
 - Simulate Persistency: Local Storage + Server backend + real time data
+- Events happening: sync / async
+- UI [Sync]
+- [Async] Observables https://github.com/sindresorhus/awesome-observables#readme
 
-### Browser
+## Browser
 A browser is anything that can interprete HTML. A modern browser can include and evaluate JS files and render CSS rules.
 
 - Information exchange SERVER <> CLIENT (handshake)
 - The DOM
 - The BOM (Browser Object Model) 
 - Browser APIS: http://browserapis.wtf/ / https://developer.mozilla.org/en-US/docs/Mozilla/Gecko/Chrome/API/Browser_API/Using
-- Its HTML Parser, tolerant to weird and wrong html.
+- Browser variations. Engines.
 - Local & Session storage
 
-- Browser -> Server -> Website -> Use some HTML generator (php/*) (-> = use)
+- Browser ->uses Server ->uses Website ->uses some HTML generator backend
 
 ### DATA 
-- External source
-- internal source 
-- Formats: JSON / XML / ...
+- External / Internal source
+- Payloads: Formats. Json / xml / even rendered html.
 - Fixtures
+- Mocks
 
 ### Server part
 - HTTP Server
@@ -41,13 +44,6 @@ A browser is anything that can interprete HTML. A modern browser can include and
 - Content Scanning, heat maps
 - Elements: Position & Size
 - Hierarchiy & Taxonomy: Information architecture
-
-## How a website is used?
-- Sync / Async
-### Things happening in real time
-- UI [Sync]
-- [Async] Observables https://github.com/sindresorhus/awesome-observables#readme
-
 
 ### The experience from user's viewpoint: Device + Browser + Website 
 - Accesibility
@@ -91,9 +87,9 @@ A browser is anything that can interprete HTML. A modern browser can include and
 - jquery 
 - ESx Javascript syntax
 - AJAX: based on a feature that was ignored for long
-- Needs HTML to run(?)
+- Needs HTML env to run(?)
 
-### Adding Assets
+### Assets
 - Images, Fonts, Icons
 
 ### Development Cycle
@@ -101,10 +97,9 @@ A browser is anything that can interprete HTML. A modern browser can include and
 - Git
 - Jenkins
 - Automatic Tests
+- Deploy
 
-## How we test Websites?
-
-### Quality Assurance
+## Quality Assurance
 - UI interactions
 - Responsive ?
 - Errors in Console. Not monitored real time.
@@ -120,7 +115,7 @@ A browser is anything that can interprete HTML. A modern browser can include and
 - Online Sources: Courses and Reference.
 
 ## Questions?
-- Is web evolution progress?
+- Is web evolution progress? How to measure real progress.
 - Important KPIs for Web development
 
 
