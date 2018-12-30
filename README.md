@@ -2,8 +2,8 @@
 We are trying to boil up web creation & development process to reduce it to the essential. 
 [Advertising] www.phpninja.info Web Repair, Bug Fixing and Maintenance Services.
 
-¿What is a website? ¿What components and part take part? How we make websites?
-Our objective is to find new ways to improve developement, optimize browser code, across devices, user-cented  and not forgeting the current development status of the code. 
+¿What is a website? ¿How we make them?
+Our objective is to generate new knowledge by reviewing the essentials, and use that new knowledge to improve web development process and website creation.
 
 ## What is a Website?
 A website is anything that can be interpreted by a browser. 
