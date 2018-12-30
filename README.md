@@ -19,14 +19,12 @@ A website is anything that can be interpreted by a browser.
 
 ## Browser
 A browser is anything that can interprete HTML. A modern browser can include and evaluate JS files and render CSS rules.
-
 - Information exchange SERVER <> CLIENT (handshake)
 - The DOM
 - The BOM (Browser Object Model) 
 - Browser APIS: http://browserapis.wtf/ / https://developer.mozilla.org/en-US/docs/Mozilla/Gecko/Chrome/API/Browser_API/Using
 - Browser variations. Engines.
 - Local & Session storage
-
 - Browser ->uses Server ->uses Website ->uses some HTML generator backend
 
 ### DATA 
