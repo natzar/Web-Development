@@ -17,6 +17,20 @@ A website is anything that can be interpreted by a browser.
 - UI [Sync]
 - [Async] Observables https://github.com/sindresorhus/awesome-observables#readme
 
+### What adds value?
+- LIST (DATA)
+- SEARCH (DATA)
+- FILTER (DATA)
+- SHARE (DATA)
+- UPLOAD (FILES)
+- DOWNLOAD (FILES)
+- ADD / EDIT / UPDATE / REMOVE (DATA)
+- Data Insights, Knowledge
+- 
+
+### What improve a website?
+- Information architecture
+
 ## Browser
 A browser is anything that can interprete HTML. A modern browser can include and evaluate JS files and render CSS rules.
 - Information exchange SERVER <> CLIENT (handshake)
