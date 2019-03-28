@@ -17,6 +17,11 @@ A website is anything that can be interpreted by a browser.
 - UI [Sync]
 - [Async] Observables https://github.com/sindresorhus/awesome-observables#readme
 
+## Why humans visit websites?
+- Get information (any kind)
+- Accomplish a task or goal (including ecommerce)
+- Entertainment (News, Games and Porn)
+
 ### What adds value?
 - LIST (DATA)
 - SEARCH (DATA)
@@ -33,7 +38,7 @@ A website is anything that can be interpreted by a browser.
 
 ## Browser
 A browser is anything that can interprete HTML. A modern browser can include and evaluate JS files and render CSS rules.
-- Information exchange SERVER <> CLIENT (handshake)
+- Information exchange SERVER <> CLIENT 
 - The DOM
 - The BOM (Browser Object Model) 
 - Browser APIS: http://browserapis.wtf/ / https://developer.mozilla.org/en-US/docs/Mozilla/Gecko/Chrome/API/Browser_API/Using
